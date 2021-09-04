@@ -1,0 +1,20 @@
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.exe.config
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.exe
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.pdb
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csprojAssemblyReference.cache
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.Form1.resources
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.Properties.Resources.resources
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csproj.GenerateResource.cache
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csproj.CoreCompileInputs.cache
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.exe
+C:\Users\Malib\Desktop\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.pdb
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.exe.config
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.exe
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\bin\Debug\Insta_karisik_islemler.pdb
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csproj.AssemblyReference.cache
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.Form1.resources
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.Properties.Resources.resources
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csproj.GenerateResource.cache
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.csproj.CoreCompileInputs.cache
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.exe
+D:\C# & UNITY\C#\Insta_karisik_islemler\Insta_karisik_islemler\obj\Debug\Insta_karisik_islemler.pdb
